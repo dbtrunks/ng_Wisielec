@@ -1,0 +1,4 @@
+{
+    "conString" : "pg://postgres:admin@localhost:5432/wisielec"
+  
+}
